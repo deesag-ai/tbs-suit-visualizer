@@ -1,0 +1,6 @@
+{
+  "name": "TBS Suit Visualizer",
+  "description": "Bespoke tailoring suit visualizer and client preview for The Bespoke Suits Dubai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
